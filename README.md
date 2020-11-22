@@ -9,7 +9,13 @@ This is a simple Machine learning React app that detects objects from an image o
 * cats
 * etc
 
+
 ``Note: This app is simillar to the previous one but the only diffrence is that this one is using an image from the browser rather than detecting it from a web cam.``
+
+## A LIST OF EXAMPES OF SUPPORTED IMAGES
+ * https://cdn.shopify.com/s/files/1/1479/5378/files/Home_Studio_BGTP002_1800_x_850_2000x.jpg?v=1585529877
+ * https://hips.hearstapps.com/pop.h-cdn.co/assets/15/47/1447961210-car-auction.jpg
+ * https://carsguide-res.cloudinary.com/image/upload/f_auto%2Cfl_lossy%2Cq_auto%2Ct_default/v1/editorial/car-auction.jpg
 
 ## This app is using
 
